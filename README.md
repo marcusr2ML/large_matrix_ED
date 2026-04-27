@@ -1,5 +1,5 @@
 # large_matrix_ED_container
-THIS README IS AI-GENERATED. 
+THIS README IS AI-GENERATED. Under **src** and **drivers**, the pdf **documentation** (written by a human) outlines submitting jobs and generating outputs.
 
 A parallelized framework for exact diagonalization (ED) of large matrices using a divide-and-conquer strategy.
 
